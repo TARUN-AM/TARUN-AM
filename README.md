@@ -1,16 +1,45 @@
-## Hi there 👋
+## 🛠️ Tech Stack
 
-<!--
-**TARUN-AM/TARUN-AM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Languages
 
-Here are some ideas to get you started:
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,c,cpp,mysql" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" />
+</p>
+
+### 🗄️ Databases & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,neo4j" />
+</p>
+
+**Vector Database:** Qdrant
+
+### 🤖 AI / Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=openai" />
+</p>
+
+`LLMs` · `RAG` · `NLP` · `AI Agents` · `Generative AI`
+
+### 🛡️ Cybersecurity
+
+`Network Security` · `Threat Detection` · `Attack Forecasting` · `Cyber Threat Intelligence`
+
+### 🔧 Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
+</p>
