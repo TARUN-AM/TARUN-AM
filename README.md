@@ -1,51 +1,35 @@
-## 🛠️ Tech Stack
-
-<img src="https://skillicons.dev/icons?i=python,ts,js,cpp,react,nextjs,nodejs,fastapi,mongodb,postgres,mysql,neo4j,git,github,docker&perline=8" height="28"/>
-
 ## 🚀 Featured Projects
 
 ### 🛡️ CYBERA
+AI-powered network attack forecasting platform.
 
-**AI-Powered Network Attack Forecasting Platform**
+`AI/ML` `Cybersecurity` `TypeScript` `Node.js`
 
-Predictive cybersecurity platform designed to analyze network activity, forecast potential attack trajectories, and support cyber threat analysis.
-
-**Tech:** TypeScript · React · Node.js · AI/ML · Cybersecurity
-
-[🌐 Live Demo](https://cybera-ai.onrender.com/) · [📂 Repository](https://github.com/TARUN-AM/cybera-ai)
+🌐 [Live Demo](https://cybera-ai.onrender.com/) · 📂 [Repository](https://github.com/TARUN-AM/cybera-ai)
 
 ---
 
 ### 🕵️ CASENET
+AI-powered criminal network intelligence platform.
 
-**AI-Powered Criminal Network Intelligence**
+`AI` `Neo4j` `FastAPI` `PostgreSQL` `Qdrant`
 
-An intelligence platform for analyzing criminal networks, discovering relationships, and visualizing connections between entities.
-
-**Tech:** Next.js · FastAPI · PostgreSQL · Neo4j · Qdrant · AI
-
-📂 Repository coming soon
+🌐 [Live Demo](https://casenet-ai.onrender.com/) · 📂 [Repository](https://github.com/TARUN-AM/sih26189-criminal-network-intelligence)
 
 ---
 
 ### ⚡ Online Code Judge
+Automated programming evaluation and code execution platform.
 
-**Automated Programming Evaluation Platform**
+`React` `Node.js` `Python`
 
-A web-based coding platform that allows users to submit programs, execute code, and receive automated evaluation results.
-
-**Tech:** React · Node.js · Python · REST API · Database
-
-📂 Repository coming soon
+📂 Repository
 
 ---
 
 ### 🧠 SmrithiSangam
+AI-powered cognitive companion for personalized and adaptive experiences.
 
-**AI-Powered Cognitive Companion**
-
-An intelligent companion focused on personalized interaction, adaptive experiences, and meaningful user engagement.
-
-**Tech:** Flutter · AI/ML · Firebase · Python
+`Flutter` `AI/ML` `Firebase` `Python`
 
 🌐 [Live Demo](https://smrithisangam.onrender.com/) · 📂 [Repository](https://github.com/TARUN-AM/smrithisangam)
