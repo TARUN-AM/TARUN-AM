@@ -43,10 +43,6 @@ AI-powered cognitive companion for personalized and adaptive experiences.
 
 ## 🤝 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/tarun-am-677579336/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="32" alt="LinkedIn"/>
-  </a>
-</p>
-
-**LinkedIn:** [linkedin.com/in/tarun-am-677579336](https://www.linkedin.com/in/tarun-am-677579336/)
+<a href="https://www.linkedin.com/in/tarun-am-677579336/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Tarun%20A.M.-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
