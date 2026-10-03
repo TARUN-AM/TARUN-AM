@@ -44,8 +44,8 @@ A web-based coding platform that allows users to submit programs, execute code, 
 
 **AI-Powered Cognitive Companion**
 
-An intelligent companion designed around personalized interaction, memory, adaptive experiences, and meaningful user engagement.
+An intelligent companion focused on personalized interaction, adaptive experiences, and meaningful user engagement.
 
 **Tech:** Flutter · AI/ML · Firebase · Python
 
-📂 Repository coming soon
+🌐 [Live Demo](https://smrithisangam.onrender.com/) · 📂 [Repository](https://github.com/TARUN-AM/smrithisangam)
