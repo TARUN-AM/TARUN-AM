@@ -23,7 +23,7 @@ Automated programming evaluation and code execution platform.
 
 `React` `Node.js` `Python`
 
-📂 Repository
+📂 On it's way
 
 ---
 
