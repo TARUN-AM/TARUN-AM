@@ -1,5 +1,3 @@
-       ## 🚀 Featured Projects
-
 ### 🛡️ CYBERA
 AI-powered network attack forecasting platform.
 
