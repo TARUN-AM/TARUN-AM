@@ -40,3 +40,13 @@ AI-powered cognitive companion for personalized and adaptive experiences.
 `Flutter` `AI/ML` `Firebase` `Python`
 
 🌐 [Live Demo](https://smrithisangam.onrender.com/) · 📂 [Repository](https://github.com/TARUN-AM/smrithisangam)
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/tarun-am-677579336/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="32" alt="LinkedIn"/>
+  </a>
+</p>
+
+**LinkedIn:** [linkedin.com/in/tarun-am-677579336](https://www.linkedin.com/in/tarun-am-677579336/)
