@@ -1,4 +1,4 @@
-## 🚀 Featured Projects
+       ## 🚀 Featured Projects
 
 ### 🛡️ CYBERA
 AI-powered network attack forecasting platform.
@@ -9,7 +9,7 @@ AI-powered network attack forecasting platform.
 
 ---
 
-### 🕵️ CASENET
+### CASENET
 AI-powered criminal network intelligence platform.
 
 `AI` `Neo4j` `FastAPI` `PostgreSQL` `Qdrant`
@@ -18,7 +18,7 @@ AI-powered criminal network intelligence platform.
 
 ---
 
-### ⚡ Online Code Judge
+### Online Code Judge
 Automated programming evaluation and code execution platform.
 
 `React` `Node.js` `Python`
@@ -27,7 +27,7 @@ Automated programming evaluation and code execution platform.
 
 ---
 
-### 🧠 SmrithiSangam
+###  SmrithiSangam
 AI-powered cognitive companion for personalized and adaptive experiences.
 
 `Flutter` `AI/ML` `Firebase` `Python`
