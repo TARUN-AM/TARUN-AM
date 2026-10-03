@@ -1,3 +1,12 @@
+About Me
+
+I'm a Computer Science Engineering student passionate about building practical solutions with AI, Cybersecurity, and Full-Stack Development.
+
+I enjoy turning real-world problems into working products — from AI-powered cybersecurity systems to intelligent web applications.
+
+Currently exploring AI/ML, LLM applications, threat intelligence, system design, and scalable software development.
+
+🚀 Build • Learn • Experiment • Ship
 ### 🛡️ CYBERA
 AI-powered network attack forecasting platform.
 
