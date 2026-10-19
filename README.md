@@ -6,13 +6,12 @@ I enjoy turning real-world problems into working products — from AI-powered cy
 
 Currently exploring AI/ML, LLM applications, threat intelligence, system design, and scalable software development.
 
-🚀 Build • Learn • Experiment • Ship
-### 🛡️ CYBERA
-AI-powered network attack forecasting platform.
+###  SmrithiSangam
+AI-powered cognitive companion for personalized and adaptive experiences.
 
-`AI/ML` `Cybersecurity` `TypeScript` `Node.js`
+`Flutter` `AI/ML` `Firebase` `Python`
 
-🌐 [Live Demo](https://cybera-ai.onrender.com/) · 📂 [Repository](https://github.com/TARUN-AM/cybera-ai)
+🌐 [Live Demo](https://smrithisangam.onrender.com/) · 📂 [Repository](https://github.com/TARUN-AM/smrithisangam)
 
 ---
 
@@ -33,13 +32,12 @@ Automated programming evaluation and code execution platform.
 📂 On it's way
 
 ---
+### 🛡️ CYBERA
+AI-powered network attack forecasting platform.
 
-###  SmrithiSangam
-AI-powered cognitive companion for personalized and adaptive experiences.
+`AI/ML` `Cybersecurity` `TypeScript` `Node.js`
 
-`Flutter` `AI/ML` `Firebase` `Python`
-
-🌐 [Live Demo](https://smrithisangam.onrender.com/) · 📂 [Repository](https://github.com/TARUN-AM/smrithisangam)
+🌐 [Live Demo](https://cybera-ai.onrender.com/) · 📂 [Repository](https://github.com/TARUN-AM/cybera-ai)
 
 ## 🤝 Connect With Me
 
