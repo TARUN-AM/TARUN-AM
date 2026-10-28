@@ -24,21 +24,6 @@ AI-powered criminal network intelligence platform.
 
 ---
 
-### Online Code Judge
-Automated programming evaluation and code execution platform.
-
-`React` `Node.js` `Python`
-
-📂 On it's way
-
----
-### 🛡️ CYBERA
-AI-powered network attack forecasting platform.
-
-`AI/ML` `Cybersecurity` `TypeScript` `Node.js`
-
-🌐 [Live Demo](https://cybera-ai.onrender.com/) · 📂 [Repository](https://github.com/TARUN-AM/cybera-ai)
-
 ## 🤝 Connect With Me
 
 <a href="https://www.linkedin.com/in/tarun-am-677579336/" target="_blank">
